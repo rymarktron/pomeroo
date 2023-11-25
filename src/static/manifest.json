@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name": "Pomeroo",
+    "description": "Improving wellbeing with meaningful breaks",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "alerts.html",
+        "default_title": "Pomeroo",
+        "default_icon": "icon.png"
+    },
+    "options_page": "options.html"
+}
