@@ -1,6 +1,6 @@
 import React from 'react';
-import { createRoot } from 'react-dom';
-import './options.css'
+import { createRoot } from 'react-dom/client';
+import './options.css';
 
 const test = <p>Hello World</p>;
 

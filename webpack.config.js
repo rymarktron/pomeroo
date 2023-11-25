@@ -7,7 +7,9 @@ module.exports = {
     devtool: 'cheap-module-source-map',
     entry: {
         alerts: path.resolve('src/alerts/alerts.tsx'),
-        options: path.resolve('src/options/options.tsx')
+        options: path.resolve('src/options/options.tsx'),
+        background: path.resolve('src/background/background.ts'),
+        content: path.resolve('src/content/content.ts')
     },
     module: {
         rules: [

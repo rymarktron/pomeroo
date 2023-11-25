@@ -1,5 +1,5 @@
 import React from 'react';
-import { createRoot } from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import './alerts.css'
 
 const test = <img src="icon.png" style={{ maxWidth: '60px' }}/>
