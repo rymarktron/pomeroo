@@ -20,6 +20,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
+    "@lottiefiles/lottie-player": "^2.0.2",
     "react-dom": "^18.2.0"
   }
 }
